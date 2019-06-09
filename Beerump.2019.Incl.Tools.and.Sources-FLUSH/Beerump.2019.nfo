@@ -1,0 +1,109 @@
+
+___________________._   F   L   U   S   H    ___________________._
+_\\_____      \      |/       ______._       _\\_____      \      |/
+|      |/      /      |       |      |/      |      |/      /      |   sns
+|      /      /|      |_______|      |_______|      /      /|      |________
+|      \_______//     /     __//     /     __//_____\_______//     /     __//
+|      ____\   |      \      \|      \      \|      \      \|      \      \
+|      |       |      |\      \      |\      \      |\      \      |\      \
+|______| n f o |______________/______________/______________/______|/______/
+
+
+PROUD TO PRESENTS
+
+BeeRump 2019 Materials
+
+Platform......: Nintendo NES/Famicom
+Release Date..: 2019-05-29
+Release Party.: BeeRump 2019
+
+
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+RELEASE NOTES
+
+Graphics: Exocet
+Music: Glafouk
+Code: mara
+
+Music done with Famitracker
+Compiled with l65
+
+Run the intro either:
+On an NES/Famicom via EverDrive cartdrige
+Or using Mesen Emulator
+
+
+Tools required :
+
+,------------------------,-------------------------------------------------------------,
+|        Name            |                             URL                             |
++------------------------+-------------------------------------------------------------,
+| 7-zip                  | https://www.7-zip.org                                       |
+| msys2                  | https://msys2.org
+| mesen                  | https://mesen.ca                                            |
+| git                    | https://git-scm.com                                         |
+| NES Screen Tool v2.4   | http://shiru.untergrund.net                                 |
+| NES Space Checker v1.2 | http://shiru.untergrund.net                                 |
+| NESSort v1.0           | http://shiru.untergrund.net                                 |
+| famitone2              | http://shiru.untergrund.net/                                |
+| yychr                  | https://www.smwcentral.net/?p=section&a=details&id=4642     |
+| Grafx2                 | http://grafx2.chez.com/index.php?static3/downloads          |
+| notepad++              | https://notepad-plus-plus.org                               |
+| famitracker            | http://famitracker.com/                                     |
+| l65                    | https://github.com/g012/l65                                 |
+| nesasm3                | https://github.com/camsaul/nesasm                           |
+| cc65                   | https://github.com/cc65/cc65                                |
+'------------------------'-------------------------------------------------------------'
+
+(!) Don't forget to install the following tools with msys2:
+
+pacman -S cmake gcc make vim
+
+(!) After we must be compiled l65 and add it at your path environment variable via msys2 shell.
+
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+GREETINGS
+
+Altair
+Cluster
+Coine
+Dentifrice
+DMA
+Genesis Project
+Jac!
+Noice
+Trilobit
+Wamma
+XayaX
+
+Blabla
+Hoodlum
+Ponk
+Resistance
+RSI
+Sector One
+Swyng
+TMP
+Traktor
+TRBL
+Undead Sceners
+Up Rough
+X-men
+
+Sir Garbage Truck
+Beertro Crew
+
+BeeRump orgas
+Up Rough
+Replicants
+VRetrocomputing
+NinjaDev
+Abdoulaye, Gaspard and the word ending Johan for their advices :)
+G012 for his advices with l65
+Chris
+Ivan
+SebP
+SebM
+
